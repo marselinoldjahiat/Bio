@@ -1,0 +1,41 @@
+<!-- AWAL KONTEN BIO -->
+<div class="fitur oke bg-warnawarni">
+	<div class="konten tengah putih">
+	
+		<img alt="foto profil" class="foto1" src="https://3.bp.blogspot.com/-MIS83GCIUJU/XRtN02RtfXI/AAAAAAAAC28/NxVsl841gZQ53_aBIUVamVSpVqfuJr00gCLcBGAs/s1600/team.jpg"/>
+     	<h1 class="sedang style48"><b>Nama Lengkap Kamu</b><br/><span class="kecil">Affiliate Marketing</span></h1>
+     	<br/>
+		
+      	<p><a class="btn-animasi1 btn-full style48" href="#" target="_blank"> <img alt="alternative" class="img-btn" src="https://3.bp.blogspot.com/-EsjQCJuVkvA/WgHKSzuajWI/AAAAAAAAAp8/Mt4mfqan8dMEa2EmtrCX2LaEkO0g0SjRQCLcBGAs/s1600/guarantee.png"/>Produk yang Kamu Promosikan</a></p>  
+		<p><a class="btn-animasi2 btn-full style48" href="#" target="_blank"> <img alt="alternative" class="img-btn" src="https://3.bp.blogspot.com/-EsjQCJuVkvA/WgHKSzuajWI/AAAAAAAAAp8/Mt4mfqan8dMEa2EmtrCX2LaEkO0g0SjRQCLcBGAs/s1600/guarantee.png"/>Produk Rekomendasi Kamu</a></p>  
+		<p><a class="btn-animasi3 btn-full style48" href="#" target="_blank"> <img alt="alternative" class="img-btn" src="https://3.bp.blogspot.com/-EsjQCJuVkvA/WgHKSzuajWI/AAAAAAAAAp8/Mt4mfqan8dMEa2EmtrCX2LaEkO0g0SjRQCLcBGAs/s1600/guarantee.png"/>Nama Produk Kamu</a></p>  
+		<p><a class="btn-animasi4 btn-full style48" href="#" target="_blank"> <img alt="alternative" class="img-btn" src="https://3.bp.blogspot.com/-EsjQCJuVkvA/WgHKSzuajWI/AAAAAAAAAp8/Mt4mfqan8dMEa2EmtrCX2LaEkO0g0SjRQCLcBGAs/s1600/guarantee.png"/>Produk Partner Kamu</a></p>  
+		<p><a class="btn-animasi5 btn-full style48" href="#" target="_blank"> <img alt="alternative" class="img-btn" src="https://3.bp.blogspot.com/-EsjQCJuVkvA/WgHKSzuajWI/AAAAAAAAAp8/Mt4mfqan8dMEa2EmtrCX2LaEkO0g0SjRQCLcBGAs/s1600/guarantee.png"/>Workshop yang Kamu Adakan</a></p>  
+      
+		<h2 class="sedang style48"><b>Hubungi Saya</b></h2>
+ 		<a href="#" target="_blank"><i class="fa fa-whatsapp icon-bulat-putih icon-kecil btn-transform-putih berputar"></i></a>
+  		<a href="#" target="_blank"><i class="fa fa-envelope icon-bulat-putih icon-kecil btn-transform-putih berputar"></i></a>
+  		<a href="#" target="_blank"><i class="fa fa-paper-plane icon-bulat-putih icon-kecil btn-transform-putih berputar" ></i></a>
+ 		<a href="#" target="_blank"><i class="fa fa-facebook icon-bulat-putih icon-kecil btn-transform-putih berputar"></i></a>
+  		<a href="#" target="_blank"><i class="fa fa-instagram  icon-bulat-putih icon-kecil btn-transform-putih berputar"></i></a>
+        <br/>
+		<br/>
+		
+	</div>
+</div> 
+<!-- AKHIR KONTEN BIO -->
+
+<div class="latar-hitampekat" style="padding:10px">
+<div class="oke konten tengah kecil style60">
+Copyright 2021 ©<a class="kuning"> Biolink Blogspot</a>
+</div >
+</div >
+
+
+
+<style>
+.sharepost{display: none;}
+</style>
+<style>
+.post-title.entry-title{display: none;}
+</style>
